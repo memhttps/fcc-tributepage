@@ -1,0 +1,20 @@
+{
+  "name": "tribute-page-mayer-rothschild",
+  "version": "0.1.0-alpha",
+  "description": "A simple tribute page to Mayer Rothschild",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
